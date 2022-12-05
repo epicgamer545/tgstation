@@ -1,7 +1,23 @@
 
-//area for inside hobbystation
-/area/ruin/space/has_grav/hobbystation
-    name = "hobbystation"
+//areas for inside hobbystation
+/area/ruin/space/has_grav/hobbystation/central
+    name = "Hobby Station Central Hall"
+
+/area/ruin/space/has_grav/hobbystation/commons
+    name = "Hobby Station Commons"
+
+/area/ruin/space/has_grav/hobbystation/archives
+    name = "Hobby Station Archives"
+
+/area/ruin/space/has_grav/hobbystation/commons/kitchen
+    name = "Hobby Station Kitchen"
+
+/area/ruin/space/has_grav/hobbystation/recreational
+    name = "Hobby Station Recreational"
+
+//this area is used to mark the holodeck, not to be confused with the station's holodeck
+/area/ruin/space/has_grav/hobbystation/holodeck
+    name = "Hobby Station Holodeck"
 
 //papers used in the Hobby Drifters ruin
 
@@ -16,6 +32,6 @@
 
 /obj/item/paper/fluff/hobbystation/infoholodeck
     name = "Holodeck Notice"
-    info = {"Crewmembers of Hobbystation: Please note that injuries sustained by holoweapons can be healed by sleeping.
+    info = {"Crewmembers of Hobbystation: Please note that injuries sustained by holo-weapons can be healed by sleeping.
     <br>
     <br> Have a secure trip!"}
