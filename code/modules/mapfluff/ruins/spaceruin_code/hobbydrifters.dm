@@ -23,7 +23,7 @@
 
 /obj/item/paper/fluff/ruins/hobbystation/infofluff
     name = "hobbystation: an introduction to the workplace"
-    info = {"Welcome to Hobby Station!
+    text = {"Welcome to Hobby Station!
     <br> If you are reading this, you have been selected to be a crewmember aboard to live out your actvities while chartering your course to a nearby re-education center supplied by Nanotrashen.
     <br> Do not worry! Because of the duration of your trip, you are given various activities to partake in while on your course.
     <br> This includes cooking, painting, bartending, and interacting with your peers in the holodeck.
@@ -32,6 +32,6 @@
 
 /obj/item/paper/fluff/ruins/hobbystation/infoholodeck
     name = "Holodeck Notice"
-    info = {"Crewmembers of Hobbystation: Please note that injuries sustained by holo-weapons can be healed by sleeping.
+    text = {"Crewmembers of Hobbystation: Please note that injuries sustained by holo-weapons can be healed by sleeping.
     <br>
     <br> Have a secure trip!"}
