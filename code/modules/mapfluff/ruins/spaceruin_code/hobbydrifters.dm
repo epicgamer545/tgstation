@@ -21,7 +21,7 @@
 
 //papers used in the Hobby Drifters ruin
 
-/obj/item/paper/fluff/hobbystation/infofluff
+/obj/item/paper/fluff/ruins/hobbystation/infofluff
     name = "hobbystation: an introduction to the workplace"
     info = {"Welcome to Hobby Station!
     <br> If you are reading this, you have been selected to be a crewmember aboard to live out your actvities while chartering your course to a nearby re-education center supplied by Nanotrashen.
@@ -30,7 +30,7 @@
     <br>
     <br> Your time to arrival is: NULL"}
 
-/obj/item/paper/fluff/hobbystation/infoholodeck
+/obj/item/paper/fluff/ruins/hobbystation/infoholodeck
     name = "Holodeck Notice"
     info = {"Crewmembers of Hobbystation: Please note that injuries sustained by holo-weapons can be healed by sleeping.
     <br>
