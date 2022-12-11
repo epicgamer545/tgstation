@@ -6,6 +6,21 @@
 	},
 /turf/open/floor/iron/large,
 /area/ruin/space/has_grav/hobbystation/central)
+"ba" = (
+/obj/structure/tank_holder/extinguisher,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"dg" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning{
+	dir = 8
+	},
+/obj/structure/sign/painting/library{
+	pixel_x = -31
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
 "dM" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -15,6 +30,22 @@
 	},
 /turf/open/misc/asteroid,
 /area/template_noop)
+"dX" = (
+/obj/structure/closet/crate/freezer,
+/obj/item/food/monkeycube,
+/obj/item/food/monkeycube,
+/obj/item/food/monkeycube,
+/obj/item/clothing/head/utility/chefhat,
+/obj/item/clothing/under/rank/civilian/chef,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/mop,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"dY" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "eg" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -28,12 +59,43 @@
 /obj/effect/turf_decal/trimline/dark/filled/warning{
 	dir = 10
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/large,
 /area/ruin/space/has_grav/hobbystation/central)
+"fu" = (
+/obj/structure/sink/kitchen/directional/south,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"fJ" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"fK" = (
+/obj/structure/table,
+/obj/item/paper/fluff/ruins/hobbystation/infoholodeck,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/side{
+	dir = 8
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
+"fU" = (
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"gc" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "gf" = (
 /obj/effect/turf_decal/trimline/dark/filled/warning{
 	dir = 6
 	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/large,
 /area/ruin/space/has_grav/hobbystation/central)
 "gG" = (
@@ -43,9 +105,32 @@
 	dir = 4
 	},
 /area/ruin/space/has_grav/hobbystation/commons)
+"gJ" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/condiment/saltshaker{
+	pixel_y = 6;
+	pixel_x = -5
+	},
+/obj/item/reagent_containers/condiment/peppermill{
+	pixel_y = 6;
+	pixel_x = 5
+	},
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
 "gW" = (
 /turf/closed/wall/r_wall,
 /area/ruin/space/has_grav/hobbystation/commons)
+"hb" = (
+/obj/effect/decal/cleanable/ash/crematorium,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
+"hQ" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "iQ" = (
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
@@ -55,6 +140,13 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark/textured_corner,
 /area/ruin/space/has_grav/hobbystation/commons)
+"jb" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "jq" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark/textured_corner{
@@ -72,6 +164,11 @@
 	},
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"jP" = (
+/turf/open/floor/iron/dark/side{
+	dir = 8
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
 "jY" = (
 /turf/open/floor/iron/smooth_half,
 /area/ruin/space/has_grav/hobbystation/commons)
@@ -109,10 +206,27 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark/textured_corner,
 /area/ruin/space/has_grav/hobbystation/commons)
+"lI" = (
+/obj/structure/closet/secure_closet/freezer/kitchen,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/flour,
+/obj/item/reagent_containers/condiment/flour,
+/obj/item/reagent_containers/condiment/sugar,
+/obj/item/reagent_containers/condiment/sugar,
+/obj/item/reagent_containers/condiment/rice,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "lX" = (
 /obj/structure/sign/poster/official/get_your_legs,
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/commons)
+"mm" = (
+/obj/machinery/gibber,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "mC" = (
 /obj/effect/decal/cleanable/blood/bubblegum{
 	icon_state = "gib3-old"
@@ -123,6 +237,12 @@
 /obj/structure/sign/poster/official/cleanliness,
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/commons)
+"nI" = (
+/obj/machinery/door/airlock/public,
+/turf/open/floor/iron/dark/side{
+	dir = 4
+	},
+/area/ruin/space/has_grav/hobbystation/central)
 "nQ" = (
 /obj/effect/decal/cleanable/blood,
 /turf/open/misc/asteroid,
@@ -142,8 +262,16 @@
 /area/ruin/space/has_grav/hobbystation/central)
 "pE" = (
 /obj/machinery/processor,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/kitchen,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"pI" = (
+/obj/effect/turf_decal/trimline/dark/filled/corner,
+/obj/effect/turf_decal/trimline/dark/filled/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
 "pR" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -167,8 +295,25 @@
 /area/ruin/space/has_grav/hobbystation/central)
 "qq" = (
 /obj/machinery/griddle,
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/kitchen,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"qv" = (
+/obj/structure/table,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/side{
+	dir = 4
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
+"qS" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/corner{
+	dir = 1
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
 "qW" = (
 /obj/structure/sink{
 	dir = 1;
@@ -187,6 +332,16 @@
 	},
 /turf/open/floor/iron/large,
 /area/ruin/space/has_grav/hobbystation/central)
+"rb" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"ri" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/side{
+	dir = 8
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
 "rI" = (
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/central)
@@ -195,17 +350,34 @@
 /obj/structure/marker_beacon/indigo,
 /turf/open/space/basic,
 /area/template_noop)
+"tc" = (
+/turf/closed/wall,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "tH" = (
 /obj/structure/chair/plastic{
 	dir = 4
 	},
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"uR" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
 "vz" = (
 /turf/open/floor/iron/dark/textured_corner{
 	dir = 8
 	},
 /area/ruin/space/has_grav/hobbystation/commons)
+"vY" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "wl" = (
 /obj/effect/mob_spawn/corpse/human,
 /obj/effect/decal/cleanable/blood/bubblegum{
@@ -226,6 +398,10 @@
 	},
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"yf" = (
+/obj/machinery/chem_master/condimaster,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "yl" = (
 /obj/effect/turf_decal/trimline/dark/filled/warning,
 /turf/open/floor/iron/large,
@@ -237,12 +413,50 @@
 	},
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"yL" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
+"yW" = (
+/obj/machinery/oven,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"Ay" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning,
+/obj/structure/sign/painting/library{
+	pixel_y = -32
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
+"Bg" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/side{
+	dir = 4
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
 "BX" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 10
 	},
 /turf/open/misc/asteroid,
 /area/template_noop)
+"Cd" = (
+/obj/structure/closet/crate/wooden,
+/obj/item/toy/plush/lizard_plushie/green{
+	name = "Waits-The-Long";
+	desc = "An adorable stuffed toy that resembles a green lizardperson. This one fills you with nostalgia and dust all over it."
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured_large,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"CU" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "CV" = (
 /obj/structure/table,
 /obj/item/toy/cards/deck{
@@ -250,6 +464,10 @@
 	},
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"Di" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
 "DK" = (
 /obj/structure/table/reinforced,
 /obj/item/paper/fluff/ruins/hobbystation/infofluff,
@@ -261,6 +479,11 @@
 	layer = 5
 	},
 /obj/item/reagent_containers/cup/beaker,
+/obj/machinery/reagentgrinder{
+	pixel_y = 12;
+	pixel_x = 3
+	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/kitchen,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "Eg" = (
@@ -276,11 +499,36 @@
 	},
 /turf/open/floor/iron/kitchen,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"Fe" = (
+/obj/structure/chair/plastic{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
 "Fk" = (
 /obj/effect/turf_decal/trimline/dark/filled/warning{
 	dir = 4
 	},
 /turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
+"FT" = (
+/obj/structure/table/reinforced,
+/obj/structure/desk_bell{
+	pixel_y = 5
+	},
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
+"Gi" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"Gk" = (
+/obj/structure/table,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
 "GA" = (
 /turf/open/floor/iron/cafeteria,
@@ -295,10 +543,42 @@
 /obj/structure/chair/plastic,
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"HL" = (
+/obj/structure/chair/plastic{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
 "Ic" = (
 /obj/structure/sign/poster/official/work_for_a_future,
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/commons)
+"Io" = (
+/turf/open/floor/iron/dark/corner{
+	dir = 4
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
+"IS" = (
+/obj/structure/chair/plastic,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
+"JF" = (
+/obj/machinery/oven,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"JJ" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/trimline/dark/filled/warning{
+	dir = 4
+	},
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
+"KA" = (
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "KJ" = (
 /turf/closed/wall/r_wall,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
@@ -308,9 +588,25 @@
 "Lg" = (
 /turf/open/floor/iron/smooth,
 /area/ruin/space/has_grav/hobbystation/commons)
+"LH" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/side{
+	dir = 1
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
+"LJ" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "LY" = (
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/commons)
+"MP" = (
+/turf/open/floor/iron/dark/side{
+	dir = 4
+	},
+/area/ruin/space/has_grav/hobbystation/recreational)
 "Nb" = (
 /obj/structure/table/reinforced,
 /obj/item/plate,
@@ -326,8 +622,51 @@
 /obj/structure/table,
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"Pa" = (
+/obj/machinery/computer/holodeck,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/small,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"PL" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced,
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"PM" = (
+/obj/structure/closet/secure_closet/freezer/kitchen,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"PN" = (
+/obj/structure/closet/crate/wooden,
+/obj/item/toy/beach_ball/holoball/dodgeball,
+/obj/item/toy/beach_ball,
+/turf/open/floor/iron/dark/textured_large,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"QK" = (
+/obj/machinery/vending/clothing,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured_large,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"Rz" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"RB" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
+"Sq" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
 "SA" = (
 /obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/door/airlock/centcom,
 /turf/open/floor/iron/dark/side{
 	dir = 4
 	},
@@ -344,6 +683,19 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/smooth_half,
 /area/ruin/space/has_grav/hobbystation/commons)
+"TD" = (
+/obj/structure/closet/crate/wooden,
+/obj/effect/spawner/random/clothing/costume,
+/obj/effect/spawner/random/decoration/glowstick,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured_large,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"Up" = (
+/obj/structure/chair/plastic,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
 "UK" = (
 /turf/closed/mineral/random,
 /area/template_noop)
@@ -353,16 +705,38 @@
 	},
 /turf/open/misc/asteroid,
 /area/template_noop)
+"UT" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "Vf" = (
-/obj/structure/billboard/nanotrasen/defaced,
+/obj/structure/billboard/roadsign/twomillion,
 /turf/open/misc/asteroid,
 /area/template_noop)
+"Vz" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/checker,
+/area/ruin/space/has_grav/hobbystation/recreational)
+"WP" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
+"WR" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/food/tomato_smudge,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/space/has_grav/hobbystation/central)
 "WV" = (
 /obj/structure/chair/plastic{
 	dir = 1
 	},
 /turf/open/floor/iron/cafeteria,
 /area/ruin/space/has_grav/hobbystation/central)
+"Xq" = (
+/obj/machinery/deepfryer,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "Xz" = (
 /turf/template_noop,
 /area/template_noop)
@@ -397,6 +771,13 @@
 	dir = 1
 	},
 /area/ruin/space/has_grav/hobbystation/commons)
+"Yw" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
 "YH" = (
 /turf/open/floor/iron/kitchen/small,
 /area/ruin/space/has_grav/hobbystation/commons/kitchen)
@@ -407,7 +788,7 @@
 /turf/open/floor/engine{
 	name = "Holodeck Projector Floor"
 	},
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/holodeck)
 
 (1,1,1) = {"
 Xz
@@ -1058,18 +1439,18 @@ UK
 UK
 UK
 KJ
-KM
-KM
-KM
-KM
+UT
+JF
+yW
+Xq
 rI
+Yw
+dg
 qZ
 qb
-qZ
+Yw
 qb
-qZ
-qb
-qZ
+Yw
 qb
 er
 jr
@@ -1110,20 +1491,20 @@ UK
 UK
 UK
 KJ
-KM
-YH
-YH
-KM
+WP
+rb
+KA
+WP
 rI
 GA
 GA
+yL
 GA
+yL
 GA
-GA
-GA
-GA
-GA
-aE
+yL
+yL
+Ay
 jr
 UK
 YJ
@@ -1162,19 +1543,19 @@ UK
 UK
 UK
 KJ
-KM
+fu
 YH
-YH
-KM
+rb
+WP
 Nb
-GA
-GA
+Sq
+hb
 tH
+WR
 GA
-GA
-GA
+yL
 tH
-GA
+yL
 yl
 jr
 UK
@@ -1214,20 +1595,20 @@ UK
 UK
 UK
 KJ
-KM
+yf
 YH
 YH
-KM
+WP
 Nb
 GA
-HJ
+IS
 OG
 WV
 GA
 HJ
 yv
-WV
-aE
+HL
+Ay
 jr
 UK
 YJ
@@ -1267,19 +1648,19 @@ UK
 UK
 KJ
 DT
-YH
-YH
-KM
-Nb
+rb
+rb
+WP
+gJ
 GA
 HJ
 kt
 WV
-GA
+yL
 HJ
 xC
 WV
-yl
+RB
 jr
 UK
 YJ
@@ -1319,13 +1700,13 @@ UK
 UK
 KJ
 qq
-YH
-YH
-KM
+KA
+rb
+WP
 Nb
-GA
-HJ
-OG
+yL
+IS
+Gk
 WV
 GA
 HJ
@@ -1372,18 +1753,18 @@ UK
 KJ
 qq
 YH
-YH
+rb
 KM
-Nb
+FT
 GA
 HJ
 jH
 WV
-GA
+yL
 HJ
 OG
 WV
-yl
+RB
 jr
 UK
 YJ
@@ -1425,17 +1806,17 @@ KJ
 ER
 YH
 YH
-KM
+WP
 Nb
-GA
+yL
 HJ
 OG
 WV
-GA
+yL
 HJ
 CV
 WV
-aE
+Ay
 jr
 UK
 UK
@@ -1475,19 +1856,19 @@ UK
 UK
 KJ
 pE
-YH
+rb
 YH
 KM
 Nb
 GA
-HJ
+Up
 OG
 WV
 GA
-HJ
+Up
 OG
-WV
-yl
+Fe
+RB
 jr
 UK
 UK
@@ -1526,20 +1907,20 @@ UK
 UK
 UK
 KJ
-KM
-YH
-YH
-KM
+lI
+rb
+rb
+LJ
 Nb
 GA
+yL
+Eg
+GA
+yL
 GA
 Eg
 GA
-GA
-GA
-Eg
-GA
-aE
+Ay
 jr
 UK
 UK
@@ -1578,19 +1959,19 @@ UK
 UK
 UK
 KJ
-KM
-YH
-YH
+PM
+rb
+rb
 KM
 rI
 GA
+yL
+yL
+hb
+yL
 GA
-GA
-GA
-GA
-GA
-GA
-GA
+yL
+yL
 yl
 jr
 UK
@@ -1630,18 +2011,18 @@ UK
 UK
 UK
 KJ
-KM
-KM
-KM
-KM
+mm
+dX
+ba
+WP
 pn
 Fk
 Fk
+pI
+JJ
 Fk
 Fk
-Fk
-Fk
-Fk
+uR
 Fk
 gf
 jr
@@ -1676,11 +2057,11 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-UK
-UK
+Rz
+Rz
+Rz
+Rz
+Rz
 iQ
 iQ
 iQ
@@ -1689,7 +2070,7 @@ iQ
 rI
 rI
 rI
-rI
+nI
 rI
 LY
 LY
@@ -1728,21 +2109,21 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-UK
-UK
+Rz
+fU
+Vz
+fU
+Vz
+fU
+Vz
+fU
+fU
+fU
+fU
+fU
+Vz
+Vz
+Vz
 LY
 ja
 qW
@@ -1780,21 +2161,21 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-ZH
-UK
-UK
+Rz
+fU
+Vz
+CU
+CU
+CU
+Bg
+MP
+MP
+Bg
+hQ
+CU
+CU
+fU
+dY
 LY
 vz
 Yj
@@ -1832,9 +2213,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+fU
+Di
 ZH
 ZH
 ZH
@@ -1845,8 +2226,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+Gi
+dY
 LY
 LY
 LY
@@ -1884,9 +2265,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+Vz
+PL
 ZH
 ZH
 ZH
@@ -1897,8 +2278,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+jb
+fU
 LY
 ja
 XN
@@ -1936,9 +2317,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+Vz
+Di
 ZH
 ZH
 ZH
@@ -1949,8 +2330,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+Gi
+Vz
 LY
 vz
 Yj
@@ -1988,9 +2369,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+Vz
+Di
 ZH
 ZH
 ZH
@@ -2001,8 +2382,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+qv
+Io
 LY
 LY
 LY
@@ -2040,9 +2421,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+Vz
+Di
 ZH
 ZH
 ZH
@@ -2053,8 +2434,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+Pa
+LH
 LY
 DK
 XN
@@ -2092,9 +2473,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+Vz
+Di
 ZH
 ZH
 ZH
@@ -2105,8 +2486,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+fK
+qS
 LY
 vz
 Yj
@@ -2144,9 +2525,9 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
+Rz
+Vz
+Di
 ZH
 ZH
 ZH
@@ -2157,8 +2538,8 @@ ZH
 ZH
 ZH
 ZH
-UK
-UK
+Gi
+fU
 LY
 LY
 LY
@@ -2196,22 +2577,22 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-gW
+Rz
+Vz
+Di
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+Gi
+fU
+LY
 ja
 XN
 LY
@@ -2248,22 +2629,22 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-xw
-UK
-UK
-UK
-UK
-UK
-UK
-gW
+Rz
+fU
+Di
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+ZH
+Gi
+fU
+LY
 jq
 oX
 XY
@@ -2300,22 +2681,22 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-UK
-UK
-UK
-UK
-Xz
-sx
-Xz
-Xz
-UK
-UK
-UK
-UK
-gW
+fJ
+fU
+dY
+gc
+gc
+gc
+ri
+ri
+jP
+jP
+vY
+gc
+gc
+dY
+Vz
+LY
 gW
 gW
 gW
@@ -2352,22 +2733,22 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-UK
-UK
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-UK
-UK
-UK
+Rz
+Vz
+dY
+Vz
+Vz
+fU
+Vz
+fU
+fU
+fU
+fU
+fU
+Vz
+Vz
+fU
+Rz
 UK
 UK
 UK
@@ -2404,22 +2785,22 @@ UK
 UK
 UK
 UK
-UK
-UK
-UK
-UK
-UK
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-UK
-UK
+Rz
+Rz
+Rz
+Rz
+Rz
+Rz
+MP
+MP
+Bg
+MP
+Rz
+Rz
+Rz
+Rz
+Rz
+Rz
 UK
 UK
 UK
@@ -2461,18 +2842,18 @@ UK
 UK
 UK
 UK
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
+tc
+TD
+PN
+Cd
+QK
+tc
+UK
+UK
+UK
+UK
+UK
+UK
 UK
 UK
 UK
@@ -2510,22 +2891,22 @@ UK
 UK
 UK
 UK
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
+UK
+UK
+UK
+tc
+tc
+tc
+tc
+tc
+tc
+UK
+UK
+UK
+UK
+UK
+UK
+UK
 UK
 UK
 UK
@@ -2561,24 +2942,24 @@ Xz
 UK
 UK
 UK
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
 UK
 UK
 UK
@@ -2611,29 +2992,29 @@ Xz
 Xz
 Xz
 Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+xw
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
+UK
 Xz
 Xz
 Xz
@@ -2665,24 +3046,24 @@ Xz
 Xz
 Xz
 Xz
+UK
+UK
+UK
+UK
+UK
+Xz
+Xz
+sx
 Xz
 Xz
 Xz
 Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
-Xz
+UK
+UK
+UK
+UK
+UK
+UK
 Xz
 Xz
 Xz
