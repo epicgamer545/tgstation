@@ -87,6 +87,32 @@
 	id = /obj/item/card/id/away/old/sci
 	l_pocket = /obj/item/stack/medical/bruise_pack
 
+//hobbystation crewmembers
+
+/obj/effect/mob_spawn/ghost_role/human/hobbystation
+	name = "dusty cryogenics pod"
+	desc = "A dusty cryo pod sealed away. You can barely see a black jumpsuit under the ice. It's humming and beeping hints that the person inside is attempting to wake up."
+	icon = 'icons/obj/machines/sleeper.dmi'
+	icon_state = "sleeper"
+	mob_species = /datum/species/human
+	prompt_name = "a drifting crewmember"
+	you_are_text = "You are assigned crewmember of Hobbystation, a Nanotrashen re-education center."
+	flavour_text = "Last time you saw this place was when you were assigned here. You were put on this station by opting in, a medical requirement, minor crimes, or, maybe even you weren't supposed to be here in the first place. \
+	The station was attached to a module designed for a engine to drive you to another place. However, whatever it was, you are sure that your never going to reach it now. \
+	Its been years since you were put into that cryopod. Your surely going to die a slow painful death out in space, and even if you do manage to escape, Nanotrashen will hunt you down, and put you in your place. \
+	Equipped on this station are many activitys to keep you away from sadness. Books, art, plants, and maybe even holographic games to keep you company. \
+	However, your not alone. You were brought here with your crew for a reason. You are pretty sure your being watched. If you plan to renew yourself, you must survive, create, and stay with your crewmates."
+	important_text = "Your sure that if you attempt to escape, you will die a slow and painful death by nature and your supervisors. Work with your fellow crew and engage with them, and do not abandon them."
+	spawner_job_path = /datum/job/assistant
+	outfit = /datum/outfit/hobbycrew
+
+	/datum/outfit/hobbycrew
+		name = "Drifting Crewmember"
+		uniform = /obj/item/clothing/under/color/black
+		shoes = /obj/item/clothing/shoes/workboots
+		id = /obj/item/card/id/away/
+
+
 ///asteroid comms agent
 
 /obj/effect/mob_spawn/ghost_role/human/lavaland_syndicate/comms/space
