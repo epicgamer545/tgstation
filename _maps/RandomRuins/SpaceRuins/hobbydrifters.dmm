@@ -1,8 +1,11 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aE" = (
 /obj/effect/turf_decal/trimline/dark/filled/warning,
+/obj/structure/sign/painting/library{
+	pixel_y = -32
+	},
 /turf/open/floor/iron/large,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "dM" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -26,13 +29,13 @@
 	dir = 10
 	},
 /turf/open/floor/iron/large,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "gf" = (
 /obj/effect/turf_decal/trimline/dark/filled/warning{
 	dir = 6
 	},
 /turf/open/floor/iron/large,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "gG" = (
 /obj/structure/table/reinforced,
 /obj/item/paper/fluff/ruins/hobbystation/infofluff,
@@ -45,7 +48,7 @@
 /area/ruin/space/has_grav/hobbystation/commons)
 "iQ" = (
 /turf/closed/wall,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "ja" = (
 /obj/structure/table/reinforced,
 /obj/item/paper/fluff/ruins/hobbystation/infofluff,
@@ -58,6 +61,9 @@
 	dir = 8
 	},
 /area/ruin/space/has_grav/hobbystation/commons)
+"jr" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/hobbystation/central)
 "jH" = (
 /obj/structure/table,
 /obj/item/pizzabox{
@@ -65,7 +71,7 @@
 	pixel_y = 9
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "jY" = (
 /turf/open/floor/iron/smooth_half,
 /area/ruin/space/has_grav/hobbystation/commons)
@@ -75,7 +81,7 @@
 	pixel_y = 2
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "kY" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -133,7 +139,11 @@
 "pn" = (
 /obj/machinery/door/airlock/public/glass,
 /turf/open/floor/iron/kitchen,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
+"pE" = (
+/obj/machinery/processor,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "pR" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -146,6 +156,19 @@
 	},
 /turf/open/misc/asteroid,
 /area/template_noop)
+"qb" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning{
+	dir = 8
+	},
+/obj/structure/sign/painting/library{
+	pixel_x = -31
+	},
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
+"qq" = (
+/obj/machinery/griddle,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "qW" = (
 /obj/structure/sink{
 	dir = 1;
@@ -163,7 +186,10 @@
 	dir = 8
 	},
 /turf/open/floor/iron/large,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
+"rI" = (
+/turf/closed/wall,
+/area/ruin/space/has_grav/hobbystation/central)
 "sx" = (
 /obj/structure/lattice/catwalk,
 /obj/structure/marker_beacon/indigo,
@@ -174,7 +200,7 @@
 	dir = 4
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "vz" = (
 /turf/open/floor/iron/dark/textured_corner{
 	dir = 8
@@ -199,14 +225,18 @@
 	pixel_x = 11
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
+"yl" = (
+/obj/effect/turf_decal/trimline/dark/filled/warning,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/hobbystation/central)
 "yv" = (
 /obj/structure/table,
 /obj/item/paper_bin{
 	pixel_y = 6
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "BX" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 10
@@ -219,27 +249,42 @@
 	pixel_y = 7
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "DK" = (
 /obj/structure/table/reinforced,
 /obj/item/paper/fluff/ruins/hobbystation/infofluff,
 /turf/open/floor/iron/dark/textured_corner,
 /area/ruin/space/has_grav/hobbystation/commons)
+"DT" = (
+/obj/structure/table,
+/obj/item/reagent_containers/condiment/enzyme{
+	layer = 5
+	},
+/obj/item/reagent_containers/cup/beaker,
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "Eg" = (
 /obj/structure/chair/plastic{
 	dir = 8
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
+"ER" = (
+/obj/structure/table,
+/obj/machinery/microwave{
+	pixel_y = 6
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "Fk" = (
 /obj/effect/turf_decal/trimline/dark/filled/warning{
 	dir = 4
 	},
 /turf/open/floor/iron/large,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "GA" = (
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "HF" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 8
@@ -249,17 +294,17 @@
 "HJ" = (
 /obj/structure/chair/plastic,
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "Ic" = (
 /obj/structure/sign/poster/official/work_for_a_future,
 /turf/closed/wall,
 /area/ruin/space/has_grav/hobbystation/commons)
 "KJ" = (
 /turf/closed/wall/r_wall,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "KM" = (
 /turf/open/floor/iron/kitchen,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "Lg" = (
 /turf/open/floor/iron/smooth,
 /area/ruin/space/has_grav/hobbystation/commons)
@@ -270,7 +315,7 @@
 /obj/structure/table/reinforced,
 /obj/item/plate,
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "Nk" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 5
@@ -280,7 +325,7 @@
 "OG" = (
 /obj/structure/table,
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "SA" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/dark/side{
@@ -317,7 +362,7 @@
 	dir = 1
 	},
 /turf/open/floor/iron/cafeteria,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/central)
 "Xz" = (
 /turf/template_noop,
 /area/template_noop)
@@ -354,7 +399,7 @@
 /area/ruin/space/has_grav/hobbystation/commons)
 "YH" = (
 /turf/open/floor/iron/kitchen/small,
-/area/template_noop)
+/area/ruin/space/has_grav/hobbystation/commons/kitchen)
 "YJ" = (
 /turf/open/misc/asteroid,
 /area/template_noop)
@@ -965,17 +1010,17 @@ KJ
 KJ
 KJ
 KJ
-KJ
-KJ
-KJ
-KJ
-KJ
-KJ
-KJ
-KJ
-KJ
-KJ
-KJ
+jr
+jr
+jr
+jr
+jr
+jr
+jr
+jr
+jr
+jr
+jr
 UK
 YJ
 YJ
@@ -1017,17 +1062,17 @@ KM
 KM
 KM
 KM
-iQ
+rI
 qZ
+qb
 qZ
+qb
 qZ
+qb
 qZ
-qZ
-qZ
-qZ
-qZ
+qb
 er
-KJ
+jr
 UK
 YJ
 YJ
@@ -1069,7 +1114,7 @@ KM
 YH
 YH
 KM
-iQ
+rI
 GA
 GA
 GA
@@ -1079,7 +1124,7 @@ GA
 GA
 GA
 aE
-KJ
+jr
 UK
 YJ
 YJ
@@ -1130,8 +1175,8 @@ GA
 GA
 tH
 GA
-aE
-KJ
+yl
+jr
 UK
 YJ
 YJ
@@ -1183,7 +1228,7 @@ HJ
 yv
 WV
 aE
-KJ
+jr
 UK
 YJ
 UK
@@ -1221,7 +1266,7 @@ UK
 UK
 UK
 KJ
-KM
+DT
 YH
 YH
 KM
@@ -1234,8 +1279,8 @@ GA
 HJ
 xC
 WV
-aE
-KJ
+yl
+jr
 UK
 YJ
 UK
@@ -1273,7 +1318,7 @@ UK
 UK
 UK
 KJ
-KM
+qq
 YH
 YH
 KM
@@ -1287,7 +1332,7 @@ HJ
 OG
 WV
 aE
-KJ
+jr
 UK
 YJ
 UK
@@ -1325,7 +1370,7 @@ UK
 UK
 UK
 KJ
-KM
+qq
 YH
 YH
 KM
@@ -1338,8 +1383,8 @@ GA
 HJ
 OG
 WV
-aE
-KJ
+yl
+jr
 UK
 YJ
 YJ
@@ -1377,7 +1422,7 @@ UK
 UK
 UK
 KJ
-KM
+ER
 YH
 YH
 KM
@@ -1391,7 +1436,7 @@ HJ
 CV
 WV
 aE
-KJ
+jr
 UK
 UK
 YJ
@@ -1429,7 +1474,7 @@ UK
 UK
 UK
 KJ
-KM
+pE
 YH
 YH
 KM
@@ -1442,8 +1487,8 @@ GA
 HJ
 OG
 WV
-aE
-KJ
+yl
+jr
 UK
 UK
 YJ
@@ -1495,7 +1540,7 @@ GA
 Eg
 GA
 aE
-KJ
+jr
 UK
 UK
 UK
@@ -1537,7 +1582,7 @@ KM
 YH
 YH
 KM
-iQ
+rI
 GA
 GA
 GA
@@ -1546,8 +1591,8 @@ GA
 GA
 GA
 GA
-aE
-KJ
+yl
+jr
 UK
 UK
 UK
@@ -1599,7 +1644,7 @@ Fk
 Fk
 Fk
 gf
-KJ
+jr
 UK
 UK
 UK
@@ -1641,11 +1686,11 @@ iQ
 iQ
 iQ
 iQ
-iQ
-iQ
-iQ
-iQ
-iQ
+rI
+rI
+rI
+rI
+rI
 LY
 LY
 LY
